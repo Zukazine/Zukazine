@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://gifdb.com/images/high/saber-artoria-pendragon-fate-stay-playing-pxuklu31m74i5y8n.gif" alt="Saber GIF" height="180" />
   <img src="https://raw.githubusercontent.com/Zukazine/Zukazine/output/snake.svg" alt="Snake animation" height="180" />
+  <img src="https://gifdb.com/images/high/saber-artoria-pendragon-fate-stay-playing-pxuklu31m74i5y8n.gif" alt="Saber GIF" height="180" />
 </div>
 
 ## 💫 About Me:
@@ -16,9 +16,9 @@ Let's collaborate and bring ideas to life!
 
 ## 📁 Featured Projects
 
-- 🔗 [My Portfolio Website](https://your-portfolio-link.com)
-- 🛒 [Creative E-Commerce Site](https://ecommerce-project-link.com)
-- 🎨 [Interactive Design Playground](https://design-to-code.com)
+- 🔗 [My Portfolio](https://irvnlabs.com)
+- 🛒 [Freelance Team Site](https://nous-systems.com)
+- 🎨 [Dental Clinic Site](https://naturadental.id)
 
 ## ⚒️ Main Stack
 
@@ -31,10 +31,9 @@ Let's collaborate and bring ideas to life!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iniilyass/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ilyas-irfan-syiraaj-51b3ab292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilyasirfan1221@gmail.com)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Zukazine&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>  -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Zukazine&theme=dracula&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zukazine&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
