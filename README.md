@@ -35,5 +35,4 @@ Let's collaborate and bring ideas to life!
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Zukazine&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zukazine&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
